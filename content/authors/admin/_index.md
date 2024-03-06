@@ -38,7 +38,7 @@ education:
     - course: PhD in Engineering and Public Policy 
       institution: Carnegie Mellon University
       year: current
-    - course: MEng in Artificial Intelligence
+    - course: BA in Artificial Intelligence
       institution: Lawrence University
       year: 2021
 

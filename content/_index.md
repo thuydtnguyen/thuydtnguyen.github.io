@@ -42,6 +42,20 @@ sections:
       title: Welcome!
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+    - block: news
+  content:
+    title: Recent News
+    date_format: Jan 2006
+    items:
+      - date: '2024-01-01'
+        news: "Event A"
+      - date: '2024-02-15'
+        news: "Event A"
+      - date: '2024-03-03'
+        news: "Event A"
+  design:
+    columns: '1'
+
   # - block: skills
   #   content:
   #     title: Skills
