@@ -38,7 +38,7 @@ education:
     - course: PhD in Engineering and Public Policy 
       institution: Carnegie Mellon University
       year: current
-    - course: BA in Artificial Intelligence
+    - course: BA in Mathematics and Economics (minor in Statistics and Data Science)
       institution: Lawrence University
       year: 2021
 
