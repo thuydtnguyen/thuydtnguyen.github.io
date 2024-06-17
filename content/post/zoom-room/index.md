@@ -12,7 +12,7 @@ categories:
 My department is moving to a new building, with our offices undergoing renovation. The new space features among other amenities, four brand new Zoom rooms. 
 
 <div style="text-align: center;">
-    <img src="zoom-room.jpg" alt="Zoom rooms" style="width: 300px;"/>
+    <img src="zoom-room.jpg" alt="Zoom rooms" style="width: 600px;"/>
 </div>
 
 Clearly, Zoom emerged victoriously as the dominant video conferencing tool here at CMU. A brand name becoming synonymous with the product indicates pervasive market presence.
@@ -26,11 +26,11 @@ So while the Oxford English Dictionary acknowledges ‘google’ as a verb, Goog
 
 <div style="text-align: center;">
     <a href="https://about.google/brand-resource-center/guidance/media/" target="_blank">
-    <img src="google.png" alt="Google brand guidelines" style="width: 300px;"/>
+    <img src="google.png" alt="Google brand guidelines" style="width: 600px;"/>
 </div>
 
 
 <div style="text-align: center;">
     <a href="https://issuu.com/aimeddesigns/docs/zoom-2022" target="_blank">
-    <img src="zoom.png" alt="Zoom brand guidelines" style="width: 300px;"/>
+    <img src="zoom.png" alt="Zoom brand guidelines" style="width: 600px;"/>
 </div>
