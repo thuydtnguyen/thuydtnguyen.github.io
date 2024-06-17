@@ -116,8 +116,10 @@ social:
 highlight_name: true
 ---
 
-I'm a third-year Ph.D. student in [**Engineering and Public Policy**](https://www.cmu.edu/epp/) at Carnegie Mellon University advised by Prof. Nick Muller. My current research explores the environmental-economic tradeoffs of oil and gas activities and examines how vehicle emission information impacts consumers' perceptions of automakers and vehicles. 
+I'm a fourth-year Ph.D. student in [**Engineering and Public Policy**](https://www.cmu.edu/epp/) at Carnegie Mellon University advised by Prof. Nick Muller. My current research explores the environmental-economic tradeoffs of oil and gas activities and examines how vehicle emission information impacts consumers' perceptions of automakers and vehicles. 
 
 I also serve as a [**Teaching Consultant Fellow**](https://www.cmu.edu/teaching/services/graduateteachingfellows/index.html) at the [**Eberly Center**](https://www.cmu.edu/teaching/), where I help graduate students and postdoctoral fellows integrate evidence-based teaching strategies in their classroom.
+
+I hope to occasionally [**blog**](https://thuydtnguyen.github.io/post/).
 
 {style="text-align: justify;"}
