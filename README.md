@@ -1,10 +1,14 @@
+---
+permalink: /index.html
+---
+
 ### Hi there 👋
 
-<!-- <div align="center">
+<div align="center">
   <img width="95%" src="https://media.tenor.com/hNBZMFgdRmMAAAAC/pixel-art-urban.gif" alt="" />
   
   By [@GuttyKreum](https://guttykreum.itch.io/)
-</div> -->
+</div>
 
 <!--
 **thuydtng/thuydtng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
